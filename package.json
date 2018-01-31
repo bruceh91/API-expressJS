@@ -1,0 +1,15 @@
+{
+  "name": "chirperserver",
+  "version": "1.0.0",
+  "description": "* Setup an API with the project structure like:     - /client     - /server         - /routes             - index.js             - chirps.js     - server.js     - chirpsstore.js (file provided in this lab)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
